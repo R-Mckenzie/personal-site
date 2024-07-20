@@ -1,0 +1,16 @@
+[[entries]]
+title = "Github"
+url = "https://github.com/R-Mckenzie"
+
+[[entries]]
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/rossmckenzieuk/"
+
+[[entries]]
+title = "all posts"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "posts"

@@ -1,0 +1,5 @@
+baseURL = 'https://rossmckenzie.dev/'
+languageCode = 'en-gb'
+title = 'Ross Mckenzie'
+theme = 'nostyleplease'
+
